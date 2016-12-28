@@ -338,10 +338,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vila-1-mavi-2-1280x691-7.jpg",
-                "image": "@PROJECT_PATH@/assets/images/vila-1-mavi-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vila-1-1920x1037-75.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vila-1.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -391,7 +391,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/vila-6-2-1920x1199-70.jpg",
                 "image": "@PROJECT_PATH@/assets/images/vila-6-2.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
