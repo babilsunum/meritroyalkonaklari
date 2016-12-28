@@ -128,7 +128,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kulturelbirikim\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://doc-00-1c-docs.googleusercontent.com/docs/securesc/ktp09qgp3hk0kts8lleqdkiovm7j0kau/bvs2er31i61f6c3bltlc276o29ihk5rn/1482933600000/11652390857583490842/18386912292603543058/0BzawEw3uPYGxOEpuQmNtcTBBMmM?e=download\">YÜKSEK KALİTELİ GÖRSELLER<br>DOWNLOAD&nbsp;</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kulturelbirikim\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://doc-10-9k-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/9rmn8hqhrkg9ujuucskn2ip17g5erbl4/1482933600000/11652390857583490842/*/0BzawEw3uPYGxOEpuQmNtcTBBMmM?e=download\">YÜKSEK KALİTELİ GÖRSELLER<br>DOWNLOAD&nbsp;</a></li>"
         },
         {
           "_styles": {
@@ -228,7 +228,9 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             "SPAN": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             }
           },
           "_tags": [
@@ -242,7 +244,7 @@
             "paddingBottom": 4,
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/vila-1-mavi-1.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -270,7 +272,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/vila-1-kahve.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -341,7 +343,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/vila-1-1920x1037-75.jpg",
                 "image": "@PROJECT_PATH@/assets/images/vila-1.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -378,8 +380,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vila-5-1920x1037-14.jpg",
-                "image": "@PROJECT_PATH@/assets/images/vila-5.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vila-6-3-1920x1199-62.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vila-6-3.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -388,10 +390,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vila-6-2-1920x1199-70.jpg",
-                "image": "@PROJECT_PATH@/assets/images/vila-6-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vila-5-1-1920x1037-68.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vila-5-1.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",

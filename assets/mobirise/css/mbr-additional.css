@@ -6,6 +6,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -500,6 +501,7 @@ h6,
 }
 #slider2-3 SPAN {
   color: #ffffff;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 #msg-box8-7 .mbr-section-title,
 #msg-box8-7 p {
