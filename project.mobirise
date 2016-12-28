@@ -87,7 +87,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "@primaryColor!important"
+              "color": "#c0a375!important"
             },
             ".btn": {
               "font-size": "14px"
@@ -388,10 +388,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vila-6-1-1920x1199-92.jpg",
-                "image": "@PROJECT_PATH@/assets/images/vila-6-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vila-6-2-1920x1199-70.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vila-6-2.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -411,7 +411,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/vila-8-1-1920x1199-93.jpg",
                 "image": "@PROJECT_PATH@/assets/images/vila-8-1.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "1",
